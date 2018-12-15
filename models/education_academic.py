@@ -25,6 +25,7 @@
 from odoo import fields, models, api, _
 from odoo.exceptions import ValidationError
 
+# Great
 
 class EducationAcademic(models.Model):
     _name = 'education.academic.year'
